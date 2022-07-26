@@ -36,7 +36,6 @@
 
 //you should really namespace all those functions
 
-
 function createCamera()
 {
     /*	functions	*/

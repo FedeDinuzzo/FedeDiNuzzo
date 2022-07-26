@@ -11,17 +11,8 @@ $siteRoot = __DIR__;
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title></title>
 
-
-
-
     <script src='libs/dependencies/gl-matrix-min.js'></script>
     <script src='dist/build.js'></script>
-
-
-
-
-
-
 
 
     <link rel="stylesheet" href='css/main.css'/>
